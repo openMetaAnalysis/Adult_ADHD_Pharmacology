@@ -2,7 +2,7 @@ Adult AHDH: Diagnosis
 ============================================
 A living systematic review
 
-Short url: [http://](https://openmetaanalysis.github.io/Adult-ADHD/)
+Short url: https://openmetaanalysis.github.io/Adult-ADHD/
 
 **Clinical summary:** This meta-analysis suggests that clinical intervention *is or is not* effective. Heterogeneity of results as measured by I<sup>2</sup> was '[moderate](https://training.cochrane.org/handbook/current/chapter-10#section-10-10-2)' at XX%. This review updates previously published meta-analysis(es).(citation[s] below)
 
