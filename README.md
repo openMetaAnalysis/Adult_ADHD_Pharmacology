@@ -1,4 +1,4 @@
-Adult AHDH: Diagnosis
+Adult AHDH: Pharmacological Treatment
 ============================================
 A living systematic review
 
