@@ -1,0 +1,6 @@
+Study,Year,PMID,Registration, experimental_events, experimental_total, control_events, control_total,Intervention,,Source
+Kooij,2004,15554568,NA,17,45,3,45,Methylphenidate IR,,"NICE, 2018"
+Spencer,2005,15737659,NA,59,78,8,32,Methylphenidate IR,,"NICE, 2019"
+Biederman,2006,16373066,NA,44,67,23,74,Methylphenidate OROS,,"NICE, 2020"
+Biederman,2010,20814332,NA,67,109,41,114,Methylphenidate OROS,,"NICE, 2021"
+Retz,2012,21155632,NA,42,84,14,78,Methylphenidate OROS,,"NICE, 2022"
